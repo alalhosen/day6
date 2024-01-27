@@ -1,0 +1,25 @@
+/* common shared style */
+.btn-primary{
+    background-color:#FD6E0A;;color: white;width: 80px;height: 30px;padding:5px;25px;10px;5px;
+    border:none
+}
+
+/* nav releted system*/
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-tittle{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800px;
+}
+.text-primary{color:#FD6E0A;}
+nav > ul{
+    display: flex;}
+    nav  li{
+        display: flex;
+        margin-right: 50px;
+        list-style: none;
+    }
